@@ -1,2 +1,1 @@
-outpute
-enen
+学C++的作业，练习
